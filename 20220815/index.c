@@ -6,6 +6,7 @@
 //   return 0;
 // }
 
+// 同样存在转译字符
 int main(void)
 {
   printf("\" If at first you don't succeed, try, try, try again !");
